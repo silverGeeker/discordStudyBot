@@ -12,7 +12,7 @@ client.on("ready", () => {
     //status: 'idle',
   //});
 });
-//test
+
 client.login(process.env.TOKEN);
 
 client.on('message', msg => {
